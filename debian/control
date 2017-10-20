@@ -9,7 +9,6 @@ Build-Depends: debhelper (>=9),
 Standards-Version: 3.9.7
 Homepage: http://lliurex.net
 Vcs-Browser: https://github.com/lliurex/poinstaller.git
-X-Python3-Version: >= 3.2
 
 Package: python3-poinstaller
 Architecture: all
