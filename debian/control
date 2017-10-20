@@ -5,7 +5,7 @@ Maintainer: LliureX Team <lliurex@gva.es>
 Build-Depends: debhelper (>=9),
                dh-python,
                python3-setuptools,
-               python3
+               python3-all
 Standards-Version: 3.9.7
 Homepage: http://lliurex.net
 Vcs-Browser: https://github.com/lliurex/poinstaller.git
