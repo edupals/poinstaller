@@ -12,7 +12,7 @@ Vcs-Browser: https://github.com/lliurex/poinstaller.git
 
 Package: python3-poinstaller
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${python3:Depends}, python-polib, python3
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python3:Depends}, python3-polib, python3
 Description: Utility for convert po to mo and install
  Python library to transform po files into mo, and install this files into
  locale path
