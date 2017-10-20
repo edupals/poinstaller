@@ -1,3 +1,9 @@
+python-poinstaller (0.1.1) xenial; urgency=medium
+
+  * Fix bug
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 20 Oct 2017 09:03:25 +0200
+
 python-poinstaller (0.1) xenial; urgency=medium
 
   * Initial Release.
