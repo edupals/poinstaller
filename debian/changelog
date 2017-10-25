@@ -1,3 +1,9 @@
+python-poinstaller (0.2) xenial; urgency=medium
+
+  * Add support to debian helper
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 25 Oct 2017 13:03:31 +0200
+
 python-poinstaller (0.1.2) xenial; urgency=medium
 
   * Fix wrong depend
