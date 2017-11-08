@@ -1,3 +1,9 @@
+python-poinstaller (0.2.1) xenial; urgency=medium
+
+  * Changed to edupals
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 08 Nov 2017 09:07:32 +0100
+
 python-poinstaller (0.2) xenial; urgency=medium
 
   * Add support to debian helper
