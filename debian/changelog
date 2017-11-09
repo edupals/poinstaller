@@ -1,3 +1,9 @@
+python-poinstaller (0.2.2) xenial; urgency=medium
+
+  * Fix regex to detect textdomain on debhelper
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 09 Nov 2017 14:02:15 +0100
+
 python-poinstaller (0.2.1) xenial; urgency=medium
 
   * Changed to edupals
