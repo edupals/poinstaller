@@ -1,3 +1,9 @@
+python-poinstaller (0.2.9) bionic; urgency=medium
+
+  * Migrate to Bionic
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 29 May 2018 12:16:28 +0200
+
 python-poinstaller (0.2.2) xenial; urgency=medium
 
   * Fix regex to detect textdomain on debhelper

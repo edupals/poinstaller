@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: python-poinstaller
-Source: https://github.com/lliurex/poinstaller.git
+Source: https://github.com/edupals/poinstaller.git
 
 Files: *
 Copyright: 2017 Raul Rodrigo Segura <raurodse@gmail.com>
