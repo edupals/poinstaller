@@ -1,3 +1,9 @@
+python-poinstaller (0.3) focal; urgency=medium
+
+  * Focal version
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 14 Sep 2020 12:11:15 +0200
+
 python-poinstaller (0.2.9) bionic; urgency=medium
 
   * Migrate to Bionic
