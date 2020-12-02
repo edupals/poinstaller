@@ -1,3 +1,9 @@
+python-poinstaller (0.3) xenial; urgency=medium
+
+  *  Add support to link languages
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 02 Dec 2020 11:14:38 +0100
+
 python-poinstaller (0.2.2) xenial; urgency=medium
 
   * Fix regex to detect textdomain on debhelper
