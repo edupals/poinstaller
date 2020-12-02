@@ -1,3 +1,9 @@
+python-poinstaller (0.3.1) bionic; urgency=medium
+
+  * Add support to link languages
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 02 Dec 2020 16:10:05 +0100
+
 python-poinstaller (0.2.9) bionic; urgency=medium
 
   * Migrate to Bionic
