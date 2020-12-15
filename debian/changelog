@@ -1,3 +1,9 @@
+python-poinstaller (0.3.2) bionic; urgency=medium
+
+  * Trying to fix links error
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 15 Dec 2020 21:19:37 +0100
+
 python-poinstaller (0.3.1) bionic; urgency=medium
 
   * Add support to link languages
