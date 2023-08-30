@@ -1,0 +1,18 @@
+Source: python-poinstaller
+Section: python
+Priority: optional
+Maintainer: LliureX Team <lliurex@gva.es>
+Build-Depends: debhelper (>=10),
+               dh-python,
+               python3-setuptools,
+               python3-all
+Standards-Version: 4.1.2
+Homepage: http://lliurex.net
+Vcs-Browser: https://github.com/edupals/poinstaller.git
+
+Package: python3-poinstaller
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python3:Depends}, python3-polib, python3
+Description: Utility for convert po to mo and install
+ Python library to transform po files into mo, and install this files into
+ locale path

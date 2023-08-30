@@ -1,0 +1,47 @@
+python-poinstaller (0.3) focal; urgency=medium
+
+  * Focal version
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 14 Sep 2020 12:11:15 +0200
+
+python-poinstaller (0.2.9) bionic; urgency=medium
+
+  * Migrate to Bionic
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 29 May 2018 12:16:28 +0200
+
+python-poinstaller (0.2.2) xenial; urgency=medium
+
+  * Fix regex to detect textdomain on debhelper
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 09 Nov 2017 14:02:15 +0100
+
+python-poinstaller (0.2.1) xenial; urgency=medium
+
+  * Changed to edupals
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 08 Nov 2017 09:07:32 +0100
+
+python-poinstaller (0.2) xenial; urgency=medium
+
+  * Add support to debian helper
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 25 Oct 2017 13:03:31 +0200
+
+python-poinstaller (0.1.2) xenial; urgency=medium
+
+  * Fix wrong depend
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 20 Oct 2017 11:51:12 +0200
+
+python-poinstaller (0.1.1) xenial; urgency=medium
+
+  * Fix bug
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 20 Oct 2017 09:03:25 +0200
+
+python-poinstaller (0.1) xenial; urgency=medium
+
+  * Initial Release.
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 20 Oct 2017 08:27:37 +0200
