@@ -1,3 +1,10 @@
+python-poinstaller (0.4) noble; urgency=medium
+
+  * Noble version
+  * Modify installer to pyproject.toml 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Fri, 06 Sep 2024 08:49:57 +0200
+
 python-poinstaller (0.3) focal; urgency=medium
 
   * Focal version
