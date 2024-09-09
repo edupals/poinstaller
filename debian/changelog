@@ -1,3 +1,9 @@
+python-poinstaller (0.4.1) noble; urgency=medium
+
+  *  Fix path # (https://github.com/edupals/poinstaller/pull/2)
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Mon, 09 Sep 2024 08:06:52 +0200
+
 python-poinstaller (0.4) noble; urgency=medium
 
   * Noble version
